@@ -1,0 +1,17 @@
+Contoh 3
+
+Mencari bilangan terbesar dari dua bilangan yang diinputkan,
+
+Algoritma:
+Step 1 Masukkan bilangan pertama
+Step 2 Masukkan bilangan kedua
+Step 3 Jika bilangan pertama > bilangan kedua maka kerjakan langkah 4, jika tidak kerjakan langkah 5
+Step 4 Tampilkan bilangan pertama
+Step 5 Tampilkan bilangan kedua
+
+Pseudocode:
+Input a
+Input b
+If a > b then kerjakan langkah 4
+print a
+print b 
